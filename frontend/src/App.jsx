@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 // If you deploy the backend elsewhere, change this URL (see README "Deployment").
-const API_URL = "http://localhost:8000";
+const API_URL = "https://resume-job-matcher-ahwb.onrender.com";
 
 function App() {
   const [resumeFile, setResumeFile] = useState(null);
