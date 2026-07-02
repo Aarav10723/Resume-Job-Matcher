@@ -1,0 +1,15 @@
+Software Engineer - Full Stack
+
+We're looking for a Software Engineer with experience in Python, React, and
+modern web development. You'll work on our backend services (FastAPI, Docker,
+Kubernetes) and collaborate closely with our data team on machine learning
+features.
+
+Requirements:
+- Experience with Python and React
+- Familiarity with Docker and Kubernetes
+- Experience with AWS or another cloud platform
+- Understanding of CI/CD pipelines
+- Exposure to machine learning or NLP is a plus
+- Strong communication and teamwork skills
+- Comfortable working in an Agile environment

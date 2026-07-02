@@ -1,0 +1,15 @@
+Jane Doe
+Software Engineer
+
+SUMMARY
+Computer Science student with experience building full-stack applications.
+Skilled in Python, React, and SQL.
+
+EXPERIENCE
+- Built REST APIs using FastAPI and deployed applications on AWS.
+- Used Git for version control and collaborated on team projects using Agile practices.
+- Strong background in data structures, algorithms, and unit testing.
+
+SKILLS
+Python, React, SQL, FastAPI, AWS, Git, Agile, data structures, algorithms,
+unit testing, debugging, communication, teamwork

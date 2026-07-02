@@ -1,0 +1,22 @@
+Alex Chen
+Data Analyst / Aspiring Data Scientist
+
+SUMMARY
+Computer Science and Data Science student with hands-on experience in data
+analysis, machine learning, and cloud deployment. Passionate about building
+data-driven products.
+
+EXPERIENCE
+- Developed machine learning models for classification tasks using Python
+  and scikit-learn.
+- Built data pipelines and dashboards using pandas, SQL, and Power BI.
+- Deployed a small web application on AWS using Docker containers.
+- Collaborated with a team of 4 in an Agile environment, using Git and Jira
+  for sprint planning and version control.
+- Presented project findings to non-technical stakeholders, strengthening
+  communication and presentation skills.
+
+SKILLS
+Python, SQL, machine learning, data analysis, data visualization, pandas,
+numpy, scikit-learn, AWS, Docker, Git, Agile, statistics, communication,
+presentation, teamwork
