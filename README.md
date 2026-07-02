@@ -8,6 +8,8 @@ their resume actually matches. This tool gives an instant score and a
 concrete list of missing keywords so applicants can tailor their resume
 before applying.
 
+🔗 **Live demo:** https://resume-job-matcher-khaki-sigma.vercel.app/
+
 ## How it works
 
 1. The user uploads a resume (PDF, DOCX, or TXT) and pastes a job description.
