@@ -14,6 +14,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",   # Vite dev server default
         "http://127.0.0.1:5173",
+        "https://resume-job-matcher-khaki-sigma.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
